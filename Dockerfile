@@ -2,7 +2,7 @@
 #
 # VERSION       0.1
 
-FROM quay.io/bgruening/galaxy:16.04
+FROM quay.io/bgruening/galaxy:latest
 
 MAINTAINER Björn A. Grüning, bjoern.gruening@gmail.com
 
